@@ -1,7 +1,7 @@
 # Validador_Pagamento
 Nesse projeto foi utilizado a biblioteca pytest para validar as regras de negócios e a estrtura do código.
 
-Funcionalidades
+# Funcionalidades
 A função calcular_total_pedido realiza as seguintes operações:
 
 Definição do Menu: Mantém um menu fixo de salgados e bebidas com seus respectivos preços.
